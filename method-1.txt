@@ -1,0 +1,1 @@
+Basically we use method-1 to work on project with no codebase, starting from base
